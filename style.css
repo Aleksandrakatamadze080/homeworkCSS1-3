@@ -1,0 +1,147 @@
+#Big{
+    font-size: 72px;
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+    text-align: center;
+    line-height:normal;
+    text-align: center;
+   
+}
+#The{
+    color: #FF8000;
+    font-size: 24px;
+    line-height: 32px;
+    text-align: center;
+
+}
+
+#is{
+    color: #D9AE00;
+    font-size: 40px;
+    line-height: normal;
+    width: 100%;
+}
+#Bang{
+    width: 681px;
+    margin-left: 20px;
+}
+#it{
+    padding-top: 24px;
+    color: #6D81B4;
+    font-size: 24px;
+    line-height: normal;
+
+}
+#images{
+    padding-top: 30px;
+    height: 415px;
+}
+#Hole{
+    margin-top: 20px;
+    width: 1007px;
+    margin-left: 20px;
+    border-left: 20px solid #000;
+    background-color: #FFCEBE;
+    border: 2px solid #000;
+}
+#Black{
+    padding-top: 64px;
+    text-align: center;
+    color: #F44E50;
+    font-size: 40px;
+}
+#hols{
+    color: #8B2B2C;
+    font-size: 20px;
+    line-height: normal;
+    text-align: center;
+}
+#image{
+    width: 879px;
+    height: 415px;
+    padding-left: 64px;
+    padding-bottom: 64px;
+}
+#string{
+    width: 696px;
+    padding-left: 20px;
+}
+
+#Theory{
+    color: #4716E4;
+    text-align: right;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-transform: uppercase;
+    padding-bottom: 24px;
+}
+#its{
+    color: #616161;
+    font-size: 24px;
+    line-height: normal;
+    text-align: right;
+    padding: 24px;
+    border: 3px solid #FF5DA3;
+    background: #FFC1E3;
+}
+#point{
+    padding-top: 30px;
+    color: #414651;
+    font-size: 24px;
+    line-height: 24px;
+}
+#of{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background: #000;
+    margin-bottom: -55px;
+}
+#one{
+    color: #C27512;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 30px;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+#al{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background: #000;
+    margin-bottom: -55px;
+}
+#two{
+    color: #C27512;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 30px;
+    display: inline-block;
+    padding-bottom: 30px;
+
+}
+#to{
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background: #000;
+    margin-bottom: -55px;
+}
+    
+#three{
+    color: #C27512;
+    font-size: 16px;
+    line-height: 24px;
+    margin-left: 30px;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+   
